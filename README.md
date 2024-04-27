@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Have a look at my [portfolio](https://github.com/Ansary25/MyProject/blob/main/README.md)
+- 🔭 Have a look at my [portfolio](https://ansary25.github.io/thameem0125.github.io/)
 - 🌱 I’m an experienced Data Engineer with around 2 years of experience working in SQL & postgresql database, currently learning Big Data Engineering & Data Science stuffs and looking for a job opportunity
 - 👯 I’m looking to collaborate on projects which provides continuous learning and growth in my career
 - 🤔 I’m looking for help with placement in company with good work-life balance and pay
