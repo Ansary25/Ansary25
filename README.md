@@ -1,4 +1,4 @@
-### Hi there 👋, it's Mohamed Thamim Anshari Babu
+### Hi there, it's Mohamed Thamim Anshari Babu 👋
 
 <!--
 **Ansary25/Ansary25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Have a look at my [portfolio](https://ansary25.github.io/thameem0125.github.io/)
-- 🌱 I’m an experienced Data Engineer with around 2 years of experience working in SQL & postgresql database, currently learning Big Data Engineering & Data Science stuffs and looking for a job opportunity
-- 👯 I’m looking to collaborate on projects which provides continuous learning and growth in my career
-- 🤔 I’m looking for help with placement in company with good work-life balance and pay
-- 📫 How to reach me: Gmail | thameem0125@gmail.com
-<br /> <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thamim-mohamed-96057b286/)
+📊 **Data Engineer | Data Science Enthusiast**
+
+- 🌱 I'm a Data Engineer with 2 years of experience in SQL and PostgreSQL databases at Tata Consultancy Services.
+- 👯 I'm eager to collaborate on projects that offer continuous learning and career growth opportunities.
+- 👨‍💻 Passionate about learning and working on data engineering and data science projects.
+- 🤔 I'm seeking job opportunities in IT firms that offer a good work-life balance and competitive pay.
+
+🌟 **Skills**:  
+- *SQL*  
+- *Python*
+- *Pyspark*
+
+🔭 Have a look at my 🔭 [portfolio](https://ansary25.github.io/thameem0125.github.io/) & 🚀 [latest project](https://github.com/Ansary25/MyProject/blob/main/README.md)
+
+🔗 **Connect with Me**:  
+- 📧 Email: [thameem0125@gmail.com](mailto:thameem0125@gmail.com)  
+- 💼 LinkedIn: [Thamim Mohamed](https://www.linkedin.com/in/thamim-mohamed-96057b286/)  
