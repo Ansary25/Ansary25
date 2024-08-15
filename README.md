@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm a Data Engineer with 2 years of experience in SQL and PostgreSQL databases at Tata Consultancy Services.
 - 👯 I'm eager to collaborate on projects that offer continuous learning and career growth opportunities.
-- 👨‍💻 Passionate about learning and working on data engineering and data science projects.
+- 👨‍💻 Passionate about learning and working on data engineering projects.
 - 🤔 I'm seeking job opportunities in IT firms that offer a good work-life balance and competitive pay.
 
 🌟 **Skills**:  
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - *Python*
 - *Pyspark*
 
-🔭 Have a look at my 🔭 [portfolio](https://ansary25.github.io/thameem0125.github.io/) & 🚀 [latest project](https://github.com/Ansary25/MyProject/blob/main/README.md)
+🔭 Have a look at my 🔭 [portfolio](https://ansary25.github.io/thameem0125.github.io/) & 🚀 [latest project](https://github.com/Ansary25/MyProject1/blob/main/README.md)
 
 🔗 **Connect with Me**:  
 - 📧 Email: [thameem0125@gmail.com](mailto:thameem0125@gmail.com)  
