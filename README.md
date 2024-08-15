@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📊 **Data Engineer | Data Science Enthusiast**
 
-- 🌱 I'm a Data Engineer with 2 years of experience in SQL and PostgreSQL databases at Tata Consultancy Services.
+- 🌱 I'm a Data Engineer with 2 years of experience in SQL, PostgreSQL databases & Python at Tata Consultancy Services.
 - 👯 I'm eager to collaborate on projects that offer continuous learning and career growth opportunities.
 - 👨‍💻 Passionate about learning and working on data engineering projects.
 - 🤔 I'm seeking job opportunities in IT firms that offer a good work-life balance and competitive pay.
