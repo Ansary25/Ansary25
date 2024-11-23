@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 - 🤔 I'm seeking job opportunities in IT firms that offer a good work-life balance and competitive pay.
 
 🌟 **Skills**:  
-- *SQL*  
-- *Python*
-- *Pyspark*
-- *Azure Databricks*
+- ***Languages -*** _*SQL, Python*_  
+- ***DataBase Management -*** _*SQL Server, Postgres*_
+- ***Technologies & Tools -*** _*Apache Spark, Pyspark, Azure Databricks, ADLS Gen2, Deltalake, Data Warehousing*_
 
 🔭 Have a look at my 🔭 [portfolio](https://ansary25.github.io/thameem0125.github.io/) & 🚀 [latest project](https://github.com/Ansary25/MyProject1/blob/main/README.md)
 
