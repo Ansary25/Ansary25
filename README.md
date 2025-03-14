@@ -1,4 +1,4 @@
-### Hi there, it's Mohamed Thamim Anshari Babu 👋
+### Hi there, it's Mohamed Thamim Anshari Babu 👋 | 📊 **Data Engineer**
 
 <!--
 **Ansary25/Ansary25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📊 **Data Engineer | Data Science Enthusiast**
 
-- 🌱 I'm a Data Engineer with 2 years of experience working with SQL, PostgreSQL databases & Python at Tata Consultancy Services.
+- 🌱 I'm a Data Engineer with over 2 years of experience working with SQL, PostgreSQL databases & Python at Tata Consultancy Services.
 - 👯 I'm eager to collaborate on projects that offer continuous learning and career growth opportunities.
 - 👨‍💻 Passionate about learning and working on data engineering projects.
 - 🤔 I'm seeking job opportunities in IT firms that offer a good work-life balance and competitive pay.
 
 🌟 **Skills**:  
-- ***Languages -*** _*SQL, Python*_  
-- ***DataBase Management -*** _*SQL Server, Postgres*_
-- ***Technologies & Tools -*** _*Apache Spark, Pyspark, Azure Databricks, ADLS Gen2, Deltalake, Data Warehousing*_
+- ***Data Technologies -*** _*SQL, Apache Spark, Pyspark, ETL*_  
+- ***Programming Language -*** _*Python*_
+- ***Cloud PLatform -*** _*Azure Databricks, Azure DataLake Storage*_
 
 🔭 Have a look at my 🔭 [portfolio](https://ansary25.github.io/thameem0125.github.io/) & 🚀 [latest project](https://github.com/Ansary25/MyProject1/blob/main/README.md)
 
